@@ -1,7 +1,7 @@
 {
 	"required": true,
 	"package": "konhaiii.beds_arent_tnt.mixin",
-	"compatibilityLevel": "JAVA_25",
+	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"
 	],

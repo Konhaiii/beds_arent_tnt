@@ -31,8 +31,9 @@ public class ExampleMixin {
 					.getValue(EnvironmentAttributes.BED_RULE, pos);
 
 			if (bedRule.explodes()) {
-				player.sendOverlayMessage(
-						Component.translatable("block.minecraft.bed.no_sleep_dimension")
+				player.displayClientMessage(
+						Component.translatable("block.minecraft.bed.no_sleep_dimension"),
+						true
 				);
 
 				cir.setReturnValue(InteractionResult.SUCCESS_SERVER);
