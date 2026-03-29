@@ -1,5 +1,7 @@
 ## Beds Aren’t TNT
 
+https://modrinth.com/mod/beds-arent-tnt
+
 Ever tried to sleep in the Nether or the End and accidentally turned your bed into a bomb? This mod fixes that.
 
 ![Beds Aren't TNT](https://cdn.modrinth.com/data/cached_images/58f86b13e9184159e55c1df3a2aec43378586394.jpeg)
