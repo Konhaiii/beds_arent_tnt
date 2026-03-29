@@ -8,8 +8,9 @@
 		"Konhaiii"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Konhaiii/beds_arent_tnt",
+		"sources": "https://github.com/Konhaiii/beds_arent_tnt",
+		"issues": "https://github.com/Konhaiii/beds_arent_tnt/issues"
 	},
 	"license": "CC BY-NC 4.0",
 	"icon": "assets/beds_arent_tnt/icon.png",
